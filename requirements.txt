@@ -1,0 +1,10 @@
+gevent==1.2.1
+greenlet==0.4.12
+grequests==0.3.0
+httplib2==0.10.3
+oauthlib==2.0.2
+requests==2.13.0
+requests-oauthlib==0.8.0
+six==1.10.0
+tweepy==3.5.0
+virtualenv==15.1.0
